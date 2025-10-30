@@ -7,5 +7,6 @@ int main() {
 printf("hello");
 printf("MATEO");
 printf("Dragane");
+printf("Kako");
     return 1;
 }
