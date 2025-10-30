@@ -3,6 +3,7 @@
 int main() {
 
     printf("Pozdrav");
+printf("Pozdrav dva ");
 
     return 0;
 }
